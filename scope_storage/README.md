@@ -7,6 +7,7 @@
 I was publishing an android build using [codemagic.io](https://codemagic.io/) when the process failed with this error.
 
 ![Scoped storage error](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tax0qmb26ry4ozyb8945.png)
+![image error](./scope_storage.png)
 
 ### Short Summary on Scoped storage
 Of course the first thing i had to do was to research [scope storage](https://developer.android.com/training/data-storage#scoped-storage).
