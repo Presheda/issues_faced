@@ -1,10 +1,7 @@
----
-title: Flutter : Your scoped storage permission declaration needs to be updated.
-published: true
-description: Scoped storage permission error when pushing a build
-tags: flutter, scope, storage, android
-# cover_image: https://direct_url_to_image.jpg
-# Use a ratio of 100:42 for best results.
+
+
+# Flutter : Your scoped storage permission declaration needs to be updated.
+
 ---
 
 I was publishing an android build using [codemagic.io](https://codemagic.io/) when the process failed with this error.
